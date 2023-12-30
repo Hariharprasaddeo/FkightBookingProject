@@ -8,7 +8,7 @@ public class User extends AbstractEntity{
 	private String lastName;
 	private String email;
 	private String password;
-	
+	 
 	public String getFirstName() {
 		return firstName;
 	}
